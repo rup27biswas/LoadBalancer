@@ -29,7 +29,7 @@ Body:
 	"port": 8080
 }
 
-**2.API to get server instance**
+**3.API to get server instance**
 
 URL:http://localhost:9090/getInstance
 
