@@ -12,13 +12,17 @@ backend servers randomly.
 **1.API to check availability**
 
 URL: http://localhost:9090/hello
+
 Method : GET
 
 **2.API to register new server instance**
 
 URL:http://localhost:9090/registerInstance
+
 Method : POST
+
 ContentType : application/JSON
+
 Body:
 {
 	"ipAddress": "122.21.21.13",
@@ -28,6 +32,8 @@ Body:
 **2.API to get server instance**
 
 URL:http://localhost:9090/getInstance
+
 Method : GET
+
 ContentType : application/JSON
 
