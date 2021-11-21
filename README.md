@@ -10,6 +10,7 @@ backend servers randomly.
 **Below are the payload details:**
 
 **1.API to check availability**
+
 URL: http://localhost:9090/hello
 Method : GET
 
